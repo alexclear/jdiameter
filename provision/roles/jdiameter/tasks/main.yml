@@ -1,0 +1,4 @@
+---
+- name: clone a repo
+  git: repo=https://github.com/RestComm/jdiameter.git dest=/root/jdiameter
+
